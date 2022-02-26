@@ -1,0 +1,90 @@
+.service-title {
+  text-align: center;
+  margin-top: 2.5%;
+  margin-bottom: 2.5;
+}
+.modification-service {
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
+
+.contacts {
+}
+
+.heading-contact {
+  text-align: center;
+}
+
+.service-modification {
+  text-align: center;
+  margin-top: 2.5%;
+}
+
+.service-h3 {
+  margin-top: 2%;
+}
+
+.form {
+  text-align: center;
+  padding: 5%;
+  background-color: #f0f5f5;
+}
+
+.services {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.carousel-item {
+  height: 500px;
+}
+
+.title-image {
+  width: 200px;
+  height: 110px;
+}
+
+.title-bar {
+  padding-bottom: 20px;
+}
+
+.h3-title {
+  display: inline-block;
+}
+
+.title-list {
+  list-style-type: none;
+  float: right;
+}
+
+li {
+  display: inline-block;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+.contact-h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.contact-modify {
+}
+
+.contact-img {
+  width: 250px;
+  height: 180px;
+}
+
+.contacts {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
