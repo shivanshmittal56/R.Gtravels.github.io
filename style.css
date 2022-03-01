@@ -88,3 +88,9 @@ li a {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+.our-social a {
+  text-decoration: none;
+  color: black;
+  font-size: 30px;
+}
