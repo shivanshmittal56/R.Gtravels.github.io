@@ -8,9 +8,6 @@
   margin-bottom: 16px;
 }
 
-.contacts {
-}
-
 .heading-contact {
   text-align: center;
 }
@@ -76,7 +73,9 @@ li a {
   padding-bottom: 30px;
 }
 
-.contact-modify {
+.contacts {
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 
 .contact-img {
@@ -84,13 +83,57 @@ li a {
   height: 180px;
 }
 
-.contacts {
-  padding-top: 30px;
-  padding-bottom: 30px;
-}
-
 .our-social a {
   text-decoration: none;
   color: black;
   font-size: 30px;
+}
+
+@media only screen and (max-width: 700px) {
+  .title-image {
+    float: left;
+    width: 100px;
+    height: 60px;
+  }
+  .h3-title {
+    float: right;
+    width: 250px;
+    font-size: 15px;
+    margin-top: 12px;
+  }
+
+  .title-list {
+    display: none;
+  }
+
+  .carousel-item {
+    margin-top: 12px;
+  }
+
+  .contacts {
+    text-align: center;
+  }
+
+  .contact-img {
+    text-align: center;
+  }
+
+  .contact-modify {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-right: 0;
+  }
+
+  .carousel {
+    height: 225px;
+  }
+
+  .form {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .contact-img {
+    text-align: center;
+  }
 }
